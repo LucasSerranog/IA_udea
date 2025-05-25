@@ -7,3 +7,5 @@
 **Programa académico**: Ingeniería Mecánica
 
 Este repositorio contiene la solución al reto de predicción del rendimiento académico en las pruebas Saber Pro.
+
+LINK ENTREGA 2: https://youtu.be/A7mM64Lngog
