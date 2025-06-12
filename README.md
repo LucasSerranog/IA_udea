@@ -9,3 +9,4 @@
 Este repositorio contiene la solución al reto de predicción del rendimiento académico en las pruebas Saber Pro.
 
 LINK ENTREGA 2: https://youtu.be/A7mM64Lngog
+LINK ENTREGA 2.1: https://youtu.be/pAPFmA4C3DQ
