@@ -10,3 +10,4 @@ Este repositorio contiene la solución al reto de predicción del rendimiento ac
 
 LINK ENTREGA 2: https://youtu.be/A7mM64Lngog
 LINK ENTREGA 2.1: https://youtu.be/pAPFmA4C3DQ
+LINK ENTREGA FINAL: https://youtu.be/oNbGQd4wqIc
